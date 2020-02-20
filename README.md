@@ -22,12 +22,6 @@
 
 ---
 
-## Setup
-
-Modal library is available on npm, install it with: `npm install --save modal-react-native-web` or `yarn add modal-react-native-web` for the basic modal.
-
-If you want to use the enhanced version, install it with `npm install --save modal-enhanced-react-native-web` or `yarn add modal-enhanced-react-native-web`.
-
 ## Usage
 
 1. React Native Web Modal
